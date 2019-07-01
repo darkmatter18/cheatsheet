@@ -6,6 +6,6 @@
 
 ###Cheatsheets:
 
-- (Basic Numpy)[https://github.com/darkmatter18/cheatsheet/blob/master/Numpy/Numpy.pdf]
+- [Basic Numpy](https://github.com/darkmatter18/cheatsheet/blob/master/Numpy/Numpy.pdf)
 
 `Arkadip | 01/07/19`
