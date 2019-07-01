@@ -10,7 +10,7 @@ Fill Free to use the CheatSheets.
 - [GIT](https://github.com/darkmatter18/cheatsheet/tree/master/GIT)
 - [Matlab](https://github.com/darkmatter18/cheatsheet/tree/master/Matlab)
 - [Python](https://github.com/darkmatter18/cheatsheet/tree/master/Python)
-- [Numpy](https://github.com/darkmatter18/cheatsheet/tree/master/Numpy)
+    - [Numpy](https://github.com/darkmatter18/cheatsheet/tree/master/Numpy)
 - [R](https://github.com/darkmatter18/cheatsheet/tree/master/R)
 - [SQL](https://github.com/darkmatter18/cheatsheet/tree/master/SQL)
 
@@ -18,3 +18,5 @@ Fill Free to use the CheatSheets.
 This Repository is growing. More Sheets are added.
 
 **If you want to contribute. Please Do. Thanks a Lot**
+
+`Arkadip | 01/07/19`
