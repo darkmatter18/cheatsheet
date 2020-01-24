@@ -1,8 +1,9 @@
-# CHEATSHEET
-## By Arkadip Bhattacharya
+# Cheat Sheets
+![forks](https://img.shields.io/github/forks/darkmatter18/cheatsheet)
+![stars](https://img.shields.io/github/stars/darkmatter18/cheatsheet)
+![license](https://img.shields.io/github/license/darkmatter18/cheatsheet)
 
-> This REPO cotains all useful Cheatsheets for Any `Programming Language`
-
+This REPO cotains all useful Cheatsheets for Any `Programming Language`
 Fill Free to use the CheatSheets.
 
 ### The following language and Library is available for now:
