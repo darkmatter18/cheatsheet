@@ -20,4 +20,4 @@ This Repository is growing. More Sheets are added.
 
 **If you want to contribute. Please Do. Thanks a Lot**
 
-`Arkadip | 01/07/19`
+&copy; Arkadip
