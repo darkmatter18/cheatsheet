@@ -16,4 +16,4 @@
 
 ## Cheetsheets:
 
-1. [Download](./git-cheat-sheet-education.pdf)
+1. [Basic Cheat Sheet](./git-cheat-sheet-education.pdf)
