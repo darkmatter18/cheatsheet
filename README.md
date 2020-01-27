@@ -8,7 +8,7 @@ Fill Free to use the CheatSheets.
 
 ### The following language and Library is available for now:
 
-- [GIT](./GIT)
+- [GIT AND Github](./GIT%20and%20Github)
 - [Matlab](./Matlab)
 - [Python](./Python)
     - [Numpy](./Numpy)
