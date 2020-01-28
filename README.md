@@ -19,8 +19,7 @@ Fill Free to use the CheatSheets.
 - [Statistics](./Statistics)
 
 ---
-This Repository is growing. More Sheets are added.
+This Repository is growing more and more.
 
-**If you want to contribute. Please Do. Thanks a Lot**
 
 &copy; Arkadip
