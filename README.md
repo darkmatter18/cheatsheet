@@ -16,6 +16,7 @@ Fill Free to use the CheatSheets.
     - [Numpy](./Numpy)
 - [R](./R)
 - [SQL](./SQL)
+- [Statistics](./Statistics)
 
 ---
 This Repository is growing. More Sheets are added.
