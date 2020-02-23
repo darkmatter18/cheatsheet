@@ -1,7 +1,7 @@
 # Cheat Sheets
-![forks](https://img.shields.io/github/forks/darkmatter18/cheatsheet)
-![stars](https://img.shields.io/github/stars/darkmatter18/cheatsheet)
-![license](https://img.shields.io/github/license/darkmatter18/cheatsheet)
+[![forks](https://img.shields.io/github/forks/darkmatter18/cheatsheet?style=flat-square&label=started&logo=github)](https://github.com/darkmatter18/cheatsheet/netowrk)
+[![stars](https://img.shields.io/github/stars/darkmatter18/cheatsheet?style=flat-square&logo=github)](https://github.com/darkmatter18/cheatsheet/stargazers)
+[![license](https://img.shields.io/github/license/darkmatter18/cheatsheet?style=flat-square)](https://github.com/darkmatter18/cheatsheet/blob/master/LICENSE)
 
 ![logo](./images/logo.jpg)
 
