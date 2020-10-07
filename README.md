@@ -12,6 +12,7 @@ Fill Free to use the CheatSheets.
 
 - [GIT AND Github](./GIT%20and%20Github)
 - [Matlab](./Matlab)
+- [Neural Netwoks](./Neural%20Networks)
 - [Python](./Python)
     - [Numpy](./Numpy)
 - [R](./R)
@@ -35,4 +36,4 @@ Fill Free to use the CheatSheets.
 > ***Need help?***
 ***Feel free to contact me @ [in2arkadipb13@gmail.com](mailto:in2arkadipb13@gmail.com?Subject=Github:Udacity-Computer-Vision-Nanodegree-Repository)***
 
-[![GitHub followers](https://img.shields.io/github/followers/darkmatter18?color=1e88e5&label=Follow%20%40darkmatter18&logo=github&style=flat-square)](https://github.com/darkmatter18/) [![Twitter Follow](https://img.shields.io/twitter/follow/Arkadipb21?color=1e88e5&logo=twitter&style=flat-square)](https://twitter.com/Arkadipb21) 
+[![GitHub followers](https://img.shields.io/github/followers/darkmatter18?color=1e88e5&label=Follow%20%40darkmatter18&logo=github&style=flat-square)](https://github.com/darkmatter18/) [![Twitter Follow](https://img.shields.io/twitter/follow/Arkadipb21?color=1e88e5&logo=twitter&style=flat-square)](https://twitter.com/Arkadipb21)
