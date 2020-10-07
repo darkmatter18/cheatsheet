@@ -16,6 +16,7 @@ Fill Free to use the CheatSheets.
     - [Numpy](./Numpy)
 - [R](./R)
 - [JavaScript](./JavaScript)
+- [C++](./C++)
 - [SQL](./SQL)
 - [Statistics](./Statistics)
 
