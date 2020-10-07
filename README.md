@@ -18,6 +18,7 @@ Fill Free to use the CheatSheets.
 - [JavaScript](./JavaScript)
 - [SQL](./SQL)
 - [Statistics](./Statistics)
+- [Vim](./Vim)
 
 
 ## Maintainer
