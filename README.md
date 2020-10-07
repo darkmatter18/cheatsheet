@@ -17,6 +17,7 @@ Fill Free to use the CheatSheets.
 - [R](./R)
 - [JavaScript](./JavaScript)
 - [C++](./C++)
+- [Linux](./Linux)
 - [SQL](./SQL)
 - [Statistics](./Statistics)
 
