@@ -20,6 +20,8 @@ Fill Free to use the CheatSheets.
 - [Linux](./Linux)
 - [SQL](./SQL)
 - [Statistics](./Statistics)
+- [Code Editors](./Code%20Editors)
+    - [Vim](./Vim)
 
 
 ## Maintainer
