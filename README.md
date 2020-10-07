@@ -19,7 +19,7 @@ Fill Free to use the CheatSheets.
 - [SQL](./SQL)
 - [Statistics](./Statistics)
 - [Code Editors](./Code%20Editors)
-    -[Vim](./Vim)
+    - [Vim](./Vim)
 
 
 ## Maintainer
