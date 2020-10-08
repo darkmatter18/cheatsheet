@@ -6,7 +6,7 @@
 ![logo](./images/logo.jpg)
 
 This REPO contains useful cheatsheets for several `Programming Languages`.
-Feel Free to use the CheatSheets to help learn new skills.
+Feel free to use the CheatSheets to help learn new skills.
 
 ### The following languages and libraries are currently available:
 
