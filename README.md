@@ -23,6 +23,7 @@ Fill Free to use the CheatSheets.
 - [Statistics](./Statistics)
 - [Code Editors](./Code%20Editors)
     - [Vim](./Vim)
+- [Time Complexity](./Time%20Complexity)
 
 
 ## Maintainer
