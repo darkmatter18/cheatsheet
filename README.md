@@ -10,21 +10,22 @@ Feel free to use the CheatSheets to help learn new skills.
 
 ### The following languages and libraries are currently available:
 
+- [C++](./C++)
+- [Code Editors](./Code%20Editors)
+    - [Vim](./Code%20Editors/Vim)
 - [GIT AND Github](./GIT%20and%20Github)
+- [JavaScript](./JavaScript)
+- [Java](./Java)
+- [Linux](./Linux)
 - [Matlab](./Matlab)
 - [Neural Netwoks](./Neural%20Networks)
 - [Python](./Python)
     - [Numpy](./Numpy)
 - [Pandas](./Pandas)
 - [R](./R)
-- [JavaScript](./JavaScript)
-- [C++](./C++)
-- [Linux](./Linux)
 - [SQL](./SQL)
 - [Statistics](./Statistics)
-- [Code Editors](./Code%20Editors)
-    - [Vim](./Code%20Editors/Vim)
-- [Images](./images)
+
 
 If you have a cheatsheet you would like to share feel free to contribute. 
 
