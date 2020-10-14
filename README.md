@@ -23,6 +23,7 @@ Feel free to use the CheatSheets to help learn new skills.
     - [Numpy](./Numpy)
 - [Pandas](./Pandas)
 - [R](./R)
+- [Shell](./Shell)
 - [SQL](./SQL)
 - [Statistics](./Statistics)
 
