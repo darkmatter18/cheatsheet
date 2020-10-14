@@ -5,23 +5,30 @@
 
 ![logo](./images/logo.jpg)
 
-This REPO cotains all useful Cheatsheets for Any `Programming Language`
-Fill Free to use the CheatSheets.
+This REPO contains useful cheatsheets for several `Programming Languages`.
+Feel free to use the CheatSheets to help learn new skills.
 
-### The following language and Library is available for now:
+### The following languages and libraries are currently available:
 
+- [C++](./C++)
+- [Code Editors](./Code%20Editors)
+    - [Vim](./Code%20Editors/Vim)
 - [GIT AND Github](./GIT%20and%20Github)
+- [JavaScript](./JavaScript)
+- [Java](./Java)
+- [Linux](./Linux)
 - [Matlab](./Matlab)
+- [Neural Netwoks](./Neural%20Networks)
 - [Python](./Python)
     - [Numpy](./Numpy)
+- [Pandas](./Pandas)
 - [R](./R)
-- [JavaScript](./JavaScript)
-- [C++](./C++)
-- [Linux](./Linux)
 - [Shell](./Shell)
 - [SQL](./SQL)
 - [Statistics](./Statistics)
 
+
+If you have a cheatsheet you would like to share feel free to contribute. 
 
 ## Maintainer
 
@@ -36,4 +43,4 @@ Fill Free to use the CheatSheets.
 > ***Need help?***
 ***Feel free to contact me @ [in2arkadipb13@gmail.com](mailto:in2arkadipb13@gmail.com?Subject=Github:Udacity-Computer-Vision-Nanodegree-Repository)***
 
-[![GitHub followers](https://img.shields.io/github/followers/darkmatter18?color=1e88e5&label=Follow%20%40darkmatter18&logo=github&style=flat-square)](https://github.com/darkmatter18/) [![Twitter Follow](https://img.shields.io/twitter/follow/Arkadipb21?color=1e88e5&logo=twitter&style=flat-square)](https://twitter.com/Arkadipb21) 
+[![GitHub followers](https://img.shields.io/github/followers/darkmatter18?color=1e88e5&label=Follow%20%40darkmatter18&logo=github&style=flat-square)](https://github.com/darkmatter18/) [![Twitter Follow](https://img.shields.io/twitter/follow/Arkadipb21?color=1e88e5&logo=twitter&style=flat-square)](https://twitter.com/Arkadipb21)
