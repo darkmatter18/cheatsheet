@@ -26,6 +26,7 @@ Feel free to use the CheatSheets to help learn new skills.
 - [Shell](./Shell)
 - [SQL](./SQL)
 - [Statistics](./Statistics)
+- [TypeScript](./TypeScript)
 
 
 If you have a cheatsheet you would like to share feel free to contribute. 
