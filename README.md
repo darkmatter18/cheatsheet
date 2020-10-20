@@ -5,26 +5,32 @@
 
 ![logo](./images/logo.jpg)
 
-This REPO cotains all useful Cheatsheets for Any `Programming Language`
-Fill Free to use the CheatSheets.
+This REPO contains useful cheatsheets for several `Programming Languages`.
+Feel free to use the CheatSheets to help learn new skills.
 
-### The following language and Library is available for now:
+### The following languages and libraries are currently available:
 
+- [C++](./C++)
+- [Code Editors](./Code%20Editors)
+    - [Vim](./Code%20Editors/Vim)
+    - [VSCode](./Code%20Editors/VSCode/)
 - [GIT AND Github](./GIT%20and%20Github)
+- [JavaScript](./JavaScript)
+- [Java](./Java)
+- [Linux](./Linux)
 - [Matlab](./Matlab)
 - [Neural Netwoks](./Neural%20Networks)
 - [Python](./Python)
     - [Numpy](./Numpy)
+- [Pandas](./Pandas)
 - [R](./R)
-- [JavaScript](./JavaScript)
-- [C++](./C++)
-- [Linux](./Linux)
+- [Shell](./Shell)
 - [SQL](./SQL)
 - [Statistics](./Statistics)
-- [Code Editors](./Code%20Editors)
-    - [Vim](./Vim)
 - [Time Complexity](./Time%20Complexity)
+- [TypeScript](./TypeScript)
 
+If you have a cheatsheet you would like to share feel free to contribute. 
 
 ## Maintainer
 
