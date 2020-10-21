@@ -2,7 +2,8 @@
 
 ## keyboard-shortcuts-reference
 
-- [for windows](./keyboard-shortcuts-windows.pdf)
+- [for windows cheatsheat1](./vscode.PNG)
+- [for windows cheatsheat2](./keyboard-shortcuts-windows.pdf)
 - [for linux](./keyboard-shortcuts-linux.pdf)
 - [for macOS](./keyboard-shortcuts-macos.pdf)
 
