@@ -1,0 +1,3 @@
+# Windows
+
+- [Shortcuts](./Windows.jpg)

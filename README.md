@@ -10,27 +10,35 @@ Feel free to use the CheatSheets to help learn new skills.
 
 ### The following languages and libraries are currently available:
 
+- [Bootstrap](./Bootstrap)
 - [C++](./C++)
-- [Code Editors](./Code%20Editors)
-    - [Vim](./Code%20Editors/Vim)
-    - [VSCode](./Code%20Editors/VSCode/)
-- [GIT AND Github](./GIT%20and%20Github)
-- [JavaScript](./JavaScript)
+- [Code](./Code%20Editors)
+- [CSS](./CSS)
+- [Databases](./Databases)
+- [Docker](./Docker)
+- [GIT](./GIT%20and%20Github)
+- [HTTP](./HTTP)
 - [Java](./Java)
-- [Linux](./Linux)
+- [JavaScript](./JavaScript)
+- [Markdown](./Markdown)
 - [Matlab](./Matlab)
-- [Neural Netwoks](./Neural%20Networks)
-- [Python](./Python)
-    - [Numpy](./Numpy)
+- [Neural](./Neural%20Networks)
+- [NPM](./NPM)
+- [Numpy](./Numpy)
+- [Operating](./Operating%20Systems)
 - [Pandas](./Pandas)
+- [Python](./Python)
 - [R](./R)
+- [Regex](./Regex)
 - [Shell](./Shell)
 - [SQL](./SQL)
 - [Statistics](./Statistics)
-- [Time Complexity](./Time%20Complexity)
+- [Time](./Time%20Complexity)
 - [TypeScript](./TypeScript)
+- [Web](./Web%20Browsers)
+- [Yarn](./Yarn)
 
-If you have a cheatsheet you would like to share feel free to contribute. 
+If you have a cheatsheet you would like to share feel free to contribute.
 
 ## Maintainer
 
