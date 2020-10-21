@@ -13,6 +13,7 @@ Feel free to use the CheatSheets to help learn new skills.
 - [C++](./C++)
 - [Code Editors](./Code%20Editors)
     - [Vim](./Code%20Editors/Vim)
+    - [VSCode](./Code%20Editors/VSCode/)
 - [GIT AND Github](./GIT%20and%20Github)
 - [JavaScript](./JavaScript)
 - [Java](./Java)
@@ -26,8 +27,8 @@ Feel free to use the CheatSheets to help learn new skills.
 - [Shell](./Shell)
 - [SQL](./SQL)
 - [Statistics](./Statistics)
+- [Time Complexity](./Time%20Complexity)
 - [TypeScript](./TypeScript)
-
 
 If you have a cheatsheet you would like to share feel free to contribute. 
 
