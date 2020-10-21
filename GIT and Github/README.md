@@ -7,6 +7,7 @@
 1. [Documentation](https://git-scm.com/docs)
 2. [GIT Tutorial](https://www.atlassian.com/git/tutorials)
 3. [Learn Git](https://www.atlassian.com/git/tutorials/install-git)
+4. [Cheat Sheet](./GIT.jpg)
 
 ## Github:
 
