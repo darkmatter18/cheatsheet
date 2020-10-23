@@ -6,3 +6,5 @@
 2. [Cheatography JavaScript Cheet Sheet](./davechild_javascript.pdf)
 3. [iLoveCoding JavaScript Cheatsheet](./js-cheatsheet.pdf)
 4. [Codecademy JavaScript Cheatsheet](./codecademy-js.pdf)
+5. [JavaScript Cheatsheet](./Javascript_cheatsheet.pdf)
+
