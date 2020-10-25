@@ -21,6 +21,7 @@ Feel free to use the CheatSheets to help learn new skills.
 - [Neural Netwoks](./Neural%20Networks)
 - [Python](./Python)
     - [Numpy](./Numpy)
+    - [Python Basics](./Python%20Basics)
 - [Pandas](./Pandas)
 - [R](./R)
 - [Shell](./Shell)
