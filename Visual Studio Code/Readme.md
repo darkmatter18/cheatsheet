@@ -2,5 +2,5 @@
 
 ## Cheatsheet:
 
-1. [Vs code Cheatsheet](./vscode_cheatsheet.pdf)
+1. [Visual Studio Code Cheatsheet](./vscode_cheatsheet.pdf)
 
