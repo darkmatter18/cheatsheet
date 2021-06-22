@@ -2,10 +2,6 @@
 
 ## keyboard-shortcuts-references
 
-# Visual Studio Code
-
-## keyboard-shortcuts-reference
-
 - [for windows cheatsheat1](./vscode.PNG)
 - [for windows cheatsheat2](./keyboard-shortcuts-windows.pdf)
 - [cheatsheet for windows](./vscode_cheatsheet.pdf)
