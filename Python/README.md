@@ -7,3 +7,4 @@
 3. [Python-Flask Framework cheatsheet](./Python%20Flask%20Cheatsheet.pdf)
 4. [Python-Cheatsheet by Mosh](./Python-3-Cheat-Sheet-v3.pdf)
 5. [Python-Cheatsheet by memento](./mementopython3-english.pdf)
+6. [Advanced Python Cheatsheet-A4.pdf](./Python/cheatsheet-python-A4.pdf)
