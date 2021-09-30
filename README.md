@@ -30,7 +30,7 @@ Feel free to use the CheatSheets to help learn new skills.
 - [Statistics](./Statistics)
 - [Time Complexity](./Time%20Complexity)
 - [TypeScript](./TypeScript)
-
+- [Regex](./Regex)
 If you have a cheatsheet you would like to share feel free to contribute. 
 
 ## Maintainer
