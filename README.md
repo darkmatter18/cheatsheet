@@ -1,11 +1,11 @@
-# Cheat Sheets
+# CheatSheet
 [![forks](https://img.shields.io/github/forks/darkmatter18/cheatsheet?style=flat-square&label=started&logo=github)](https://github.com/darkmatter18/cheatsheet/netowrk)
 [![stars](https://img.shields.io/github/stars/darkmatter18/cheatsheet?style=flat-square&logo=github)](https://github.com/darkmatter18/cheatsheet/stargazers)
 [![license](https://img.shields.io/github/license/darkmatter18/cheatsheet?style=flat-square)](https://github.com/darkmatter18/cheatsheet/blob/master/LICENSE)
 
 ![logo](./images/logo.jpg)
 
-This REPO contains useful cheatsheets for several `Programming Languages`.
+This repo contains useful cheatsheets for several `Programming Languages`.
 Feel free to use the CheatSheets to help learn new skills.
 
 ### The following languages and libraries are currently available:
@@ -15,15 +15,15 @@ Feel free to use the CheatSheets to help learn new skills.
     - [Vim](./Code%20Editors/Vim)
     - [VSCode](./Code%20Editors/VSCode/)
 - [Computer Network](./Computer%20Network)
-- [GIT AND Github](./GIT%20and%20Github)
+- [Git AND GitHub](./GIT%20and%20GitHub)
 - [JavaScript](./JavaScript)
 - [Java](./Java)
 - [Linux](./Linux)
 - [Matlab](./Matlab)
 - [Neural Netwoks](./Neural%20Networks)
 - [Python](./Python)
-    - [Numpy](./Numpy)
-- [Pandas](./Pandas)
+    - [NumPy](./NumPy)
+- [pandas](./pandas)
 - [R](./R)
 - [Shell](./Shell)
 - [SQL](./SQL)
