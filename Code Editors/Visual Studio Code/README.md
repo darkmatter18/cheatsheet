@@ -1,11 +1,10 @@
 # Visual Studio Code
 
-## keyboard-shortcuts-references
+## Cheatsheets:
 
-- [for windows cheatsheat1](./vscode.PNG)
-- [for windows cheatsheat2](./keyboard-shortcuts-windows.pdf)
-- [cheatsheet for windows](./vscode_cheatsheet.pdf)
-- [for linux](./keyboard-shortcuts-linux.pdf)
-- [for macOS](./keyboard-shortcuts-macos.pdf)
+- [Keyboard Shortcuts For Windows 1](./vscode.png)
+- [Keyboard Shortcuts For Windows 2](./keyboard-shortcuts-windows.pdf)
+- [Keyboard Shortcuts For Linux](./keyboard-shortcuts-linux.pdf)
+- [Keyboard Shortcuts For macOS](./keyboard-shortcuts-macos.pdf)
 
 from [VSCode docs](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference)
