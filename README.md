@@ -15,7 +15,7 @@ Feel free to use the CheatSheets to help learn new skills.
     - [Vim](./Code%20Editors/Vim)
     - [Visual Studio Code](./Code%20Editors/Visual%20Studio%20Code/)
 - [Computer Network](./Computer%20Network)
-- [Git and GitHub](./Git20and%20GitHub)
+- [Git and GitHub](./Git%20and%20GitHub)
 - [JavaScript](./JavaScript)
 - [Java](./Java)
 - [Linux](./Linux)
