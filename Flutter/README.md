@@ -2,4 +2,4 @@
 
 ## Cheatsheets
 
-1) [Flutter Basics](./Flutter.pdf)
+- [Flutter Basics](./Flutter.pdf)

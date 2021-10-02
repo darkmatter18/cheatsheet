@@ -1,5 +1,5 @@
 # C++
 
-## Cheatsheets
+## Cheatsheets:
 
-1) [C++ Basics](./C++.pdf)
+- [C++ Basics](./C++.pdf)
