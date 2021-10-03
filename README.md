@@ -10,6 +10,7 @@ Feel free to use the CheatSheets to help learn new skills.
 
 ### The following languages and libraries are currently available:
 
+- [Apache Spark](./Apache%20Spark)
 - [C++](./C++)
 - [Code Editors](./Code%20Editors)
     - [Vim](./Code%20Editors/Vim)
