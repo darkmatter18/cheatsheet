@@ -8,3 +8,4 @@
 - [Python-Cheatsheet by Mosh](./Python-3-Cheat-Sheet-v3.pdf)
 - [Python-Cheatsheet by memento](./mementopython3-english.pdf)
 - [Advanced Python Cheatsheet-A4.pdf](./cheatsheet-python-A4.pdf)
+- [Seaborn](./Seaborn_CS.pdf)
