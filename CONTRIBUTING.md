@@ -67,6 +67,6 @@ git push origin <branch name>
 
 ![pull request](image/CONTRIBUTING/1633265000290.png)
 
-10)
+10) Dont forget to write a message explaining your work. The repository owner after reviewing your work will soon merge and thats it.
 
 ### Thankyou for your Contribution to this project.
