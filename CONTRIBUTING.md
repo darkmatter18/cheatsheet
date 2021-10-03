@@ -69,4 +69,9 @@ git push origin <branch name>
 
 10) Dont forget to write a message explaining your work. The repository owner after reviewing your work will soon merge and thats it.
 
-### Thankyou for your Contribution to this project.
+---
+
+## Thankyou for your Contribution to this project.
+
+
+
