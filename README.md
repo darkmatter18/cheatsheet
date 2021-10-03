@@ -16,6 +16,7 @@ Feel free to use the CheatSheets to help learn new skills.
     - [Visual Studio Code](./Code%20Editors/Visual%20Studio%20Code/)
 - [Computer Network](./Computer%20Network)
 - [Git and GitHub](./Git%20and%20GitHub)
+- [Hadoop](./Hadoop)
 - [JavaScript](./JavaScript)
 - [Java](./Java)
 - [Linux](./Linux)
