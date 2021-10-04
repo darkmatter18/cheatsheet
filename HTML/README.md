@@ -3,4 +3,4 @@
 ---
 
 #### Cheatsheet:
-- [Basic HTML](Basic%20HTML.pdf)
+- [Basic HTML](./Basic%20HTML.pdf)
