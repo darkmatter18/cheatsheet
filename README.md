@@ -21,6 +21,7 @@ Feel free to use the CheatSheets to help learn new skills.
 - [Hadoop](./Hadoop)
 - [HTML](./HTML)
 - [JavaScript](./JavaScript)
+    - [NodeJS](./JavaScript/NodeJS)
 - [Java](./Java)
 - [Linux](./Linux)
 - [MATLAB](./MATLAB)
