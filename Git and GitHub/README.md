@@ -17,3 +17,4 @@
 ## Cheetsheets:
 
 - [Basic Cheat Sheet](./git-cheat-sheet-education.pdf)
+- [Git Cheat Sheet](./git-cheat-sheet.pdf)
