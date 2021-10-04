@@ -19,6 +19,7 @@ Feel free to use the CheatSheets to help learn new skills.
 - [Docker](./Docker)
 - [Git and GitHub](./Git%20and%20GitHub)
 - [Hadoop](./Hadoop)
+- [HTML](./HTML)
 - [JavaScript](./JavaScript)
 - [Java](./Java)
 - [Linux](./Linux)
