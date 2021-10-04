@@ -25,6 +25,7 @@ Feel free to use the CheatSheets to help learn new skills.
 - [Linux](./Linux)
 - [MATLAB](./MATLAB)
 - [Neural Netwoks](./Neural%20Networks)
+- [NPM](./NPM)
 - [Python](./Python)
     - [NumPy](./Python/NumPy)
     - [pandas](./Python/pandas)
