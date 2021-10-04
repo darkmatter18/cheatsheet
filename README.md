@@ -17,6 +17,7 @@ Feel free to use the CheatSheets to help learn new skills.
 - [Computer Network](./Computer%20Network)
 - [Git and GitHub](./Git%20and%20GitHub)
 - [Hadoop](./Hadoop)
+- [HTML](./HTML)
 - [JavaScript](./JavaScript)
 - [Java](./Java)
 - [Linux](./Linux)
