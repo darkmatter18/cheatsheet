@@ -20,7 +20,7 @@ Feel free to use the CheatSheets to help learn new skills.
 - [Git and GitHub](./Git%20and%20GitHub)
 - [Hadoop](./Hadoop)
 - [JavaScript](./JavaScript)
-    - [Vue.js](./Javascript)
+    - [Vue](./JavaScript)
 - [Java](./Java)
 - [Linux](./Linux)
 - [MATLAB](./MATLAB)
