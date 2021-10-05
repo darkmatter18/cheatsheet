@@ -9,3 +9,4 @@
 - [Python-Cheatsheet by memento](./mementopython3-english.pdf)
 - [Advanced Python Cheatsheet-A4.pdf](./cheatsheet-python-A4.pdf)
 - [Seaborn](./Seaborn_CS.pdf)
+- [python cheatsheet.pdf](./python-cheatsheet.pdf)
