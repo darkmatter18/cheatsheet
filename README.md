@@ -23,6 +23,7 @@ Feel free to use the CheatSheets to help learn new skills.
 - [JavaScript](./JavaScript)
     - [NodeJS](./JavaScript/NodeJS)
 - [Java](./Java)
+- [Kubernetes](./Kubernetes)
 - [Linux](./Linux)
 - [MATLAB](./MATLAB)
 - [Neural Netwoks](./Neural%20Networks)
