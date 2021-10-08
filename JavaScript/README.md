@@ -9,3 +9,4 @@
 - [JavaScript Cheatsheet](./Javascript_cheatsheet.pdf)
 - [Javascript Dom Cheatsheet](./JavaScript_DOM_Cheatsheet.pdf)
 - [Javascript ES6 Cheatsheet](./es6_chatesheet.pdf)
+- [Javascript Array Reduce Cheatsheet](./javascript-array-reduce.png)
