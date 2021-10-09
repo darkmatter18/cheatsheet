@@ -10,6 +10,7 @@ Feel free to use the CheatSheets to help learn new skills.
 
 ### The following languages and libraries are currently available:
 
+- [Arduino](./Arduino)
 - [C++](./C++)
 - [Code Editors](./Code%20Editors)
     - [GNU Emacs](./Code%20Editors/GNU%20Emacs)
@@ -18,6 +19,7 @@ Feel free to use the CheatSheets to help learn new skills.
 - [Computer Network](./Computer%20Network)
 - [CSS](./CSS)
 - [Docker](./Docker)
+- [Flutter](./Flutter)
 - [Git and GitHub](./Git%20and%20GitHub)
 - [Hadoop](./Hadoop)
 - [HTML](./HTML)
@@ -28,10 +30,12 @@ Feel free to use the CheatSheets to help learn new skills.
 - [Linux](./Linux)
 - [MATLAB](./MATLAB)
 - [Neural Netwoks](./Neural%20Networks)
+- [Prolog](./Prolog)
 - [Python](./Python)
     - [NumPy](./Python/NumPy)
     - [pandas](./Python/pandas)
 - [R](./R)
+- [ROS](./ROS)
 - [Shell](./Shell)
     - [PowerShell](./Shell/PowerShell)
 - [SQL](./SQL)
@@ -40,8 +44,8 @@ Feel free to use the CheatSheets to help learn new skills.
 - [Terraform](./Terraform)
 - [TypeScript](./TypeScript)
 - [Regex](./Regex)
-  
-If you have a CheatSheet you would like to share feel free to contribute. 
+
+If you have a CheatSheet you would like to share feel free to contribute.
 
 ## Credits
 
