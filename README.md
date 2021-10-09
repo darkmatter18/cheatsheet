@@ -10,6 +10,7 @@ Feel free to use the CheatSheets to help learn new skills.
 
 ### The following languages and libraries are currently available:
 
+- [C](./C)
 - [C++](./C++)
 - [Code Editors](./Code%20Editors)
     - [GNU Emacs](./Code%20Editors/GNU%20Emacs)
