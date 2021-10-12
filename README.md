@@ -33,7 +33,7 @@ Feel free to use the CheatSheets to help learn new skills.
     - [pandas](./Python/pandas)
 - [R](./R)
 - [Ruby](./Ruby)
-    - [Sinatra](./Sinatra/sinatra-cheatsheet.md)
+    - [Sinatra](./Ruby/sinatra-cheatsheet.md)
 - [Shell](./Shell)
     - [PowerShell](./Shell/PowerShell)
 - [SQL](./SQL)
