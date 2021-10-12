@@ -31,6 +31,7 @@ Feel free to use the CheatSheets to help learn new skills.
 - [Python](./Python)
     - [NumPy](./Python/NumPy)
     - [pandas](./Python/pandas)
+    - [GUIs](./Python/GUI) 
 - [R](./R)
 - [Shell](./Shell)
     - [PowerShell](./Shell/PowerShell)
