@@ -32,6 +32,8 @@ Feel free to use the CheatSheets to help learn new skills.
     - [NumPy](./Python/NumPy)
     - [pandas](./Python/pandas)
 - [R](./R)
+- Ruby
+    - Sinatra (./cheatsheet/blob/master/Ruby/Sinatra) 
 - [Shell](./Shell)
     - [PowerShell](./Shell/PowerShell)
 - [SQL](./SQL)
