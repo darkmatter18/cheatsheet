@@ -2,4 +2,4 @@
 
 ## Cheatsheets:
 
-- [jQuery Cheatsheet](https://overapi.com/jquery)
+- [jQuery Cheatsheet from OverAPI](https://overapi.com/jquery)
