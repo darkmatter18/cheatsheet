@@ -1,5 +1,6 @@
-# HTML
+### HTML
 
-## Cheatsheets:
+---
 
-- [HTML Cheatsheet](./html-cheatsheet.pdf)
+#### Cheatsheet:
+- [Basic HTML](./Basic%20HTML.pdf)
