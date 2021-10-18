@@ -35,7 +35,7 @@ Feel free to use the CheatSheets to help learn new skills.
     - [NumPy](./Python/NumPy)
     - [pandas](./Python/pandas)
 - [R](./R)
-- [ROS](./ROS)
+- [Robot_Operating_System](./Robot_Operating_System)
 - [Shell](./Shell)
     - [PowerShell](./Shell/PowerShell)
 - [SQL](./SQL)

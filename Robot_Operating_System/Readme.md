@@ -1,4 +1,4 @@
-# ROS(Robot Operating System)
+# Robot Operating System(ROS)
 
 ## Cheatsheets:
 
