@@ -2,4 +2,6 @@
 
 ## Cheatsheets:
 
-- [DSA Cheatsheet](./DSA_All_in_one_Cheatsheet.pdf)
+- [DSA Cheatsheet](./DSA_Cheatsheet.pdf)
+
+
