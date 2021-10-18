@@ -2,6 +2,6 @@
 
 ## Cheatsheets:
 
-- [DSA Cheatsheet](./DSA_Cheatsheet.pdf)
+- [DSA Cheatsheet](./drive.google.com/file/d/1ES_pys8qgC_BAhmcge7LAvlnGrbgRwn-/view)
 
 
