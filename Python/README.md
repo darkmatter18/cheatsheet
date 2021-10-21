@@ -10,3 +10,5 @@
 - [Advanced Python Cheatsheet-A4.pdf](./cheatsheet-python-A4.pdf)
 - [Seaborn](./Seaborn_CS.pdf)
 - [Game dev with pgzero](./pgzero-cheatsheet.md)
+- [python cheatsheet.pdf](./python-cheatsheet.pdf)
+- [Python cheatsheet from OverAPI](https://overapi.com/python)
