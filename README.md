@@ -40,6 +40,8 @@ Feel free to use the CheatSheets to help learn new skills.
   - [NumPy](./Python/NumPy)
   - [pandas](./Python/pandas)
 - [R](./R)
+- [Ruby](./Ruby)
+    - [Sinatra](./Ruby/sinatra-cheatsheet.md)
 - [Security](./Security)
   - [Cryptography](./Security/Cryptography)
 - [Robot_Operating_System](./Robot_Operating_System)
