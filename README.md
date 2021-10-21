@@ -13,6 +13,7 @@ Feel free to use the CheatSheets to help learn new skills.
 
 - [Arduino](./Arduino)
 - [Apache Spark](./Apache%20Spark)
+- [C](./C)
 - [C++](./C++)
 - [Code Editors](./Code%20Editors)
   - [GNU Emacs](./Code%20Editors/GNU%20Emacs)
