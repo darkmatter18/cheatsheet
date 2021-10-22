@@ -9,5 +9,7 @@
 - [Python-Cheatsheet by memento](./mementopython3-english.pdf)
 - [Advanced Python Cheatsheet-A4.pdf](./cheatsheet-python-A4.pdf)
 - [Seaborn](./Seaborn_CS.pdf)
-- [Django Rest Framework](./drf-cheatsheet.pdf)
+- [Django Rest Framework](./Django/drf-cheatsheet.pdf)
+- [Game dev with pgzero](./pgzero-cheatsheet.md)
+- [python cheatsheet.pdf](./python-cheatsheet.pdf)
 - [Python cheatsheet from OverAPI](https://overapi.com/python)

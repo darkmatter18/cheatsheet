@@ -11,7 +11,9 @@ Feel free to use the CheatSheets to help learn new skills.
 
 ### The following languages and libraries are currently available:
 
+- [Arduino](./Arduino)
 - [Apache Spark](./Apache%20Spark)
+- [C](./C)
 - [C++](./C++)
 - [Code Editors](./Code%20Editors)
   - [GNU Emacs](./Code%20Editors/GNU%20Emacs)
@@ -21,6 +23,7 @@ Feel free to use the CheatSheets to help learn new skills.
 - [CSS](./CSS)
 - [Dart](./Dart)
 - [Docker](./Docker)
+- [Flutter](./Flutter)
 - [Git and GitHub](./Git%20and%20GitHub)
 - [Hadoop](./Hadoop)
 - [HTML](./HTML)
@@ -32,10 +35,18 @@ Feel free to use the CheatSheets to help learn new skills.
 - [Linux](./Linux)
 - [MATLAB](./MATLAB)
 - [Neural Netwoks](./Neural%20Networks)
+    - [BrainJS](./Neural%20Networks/brainjs-cheatsheet.md)
+- [Prolog](./Prolog)
 - [Python](./Python)
-  - [NumPy](./Python/NumPy)
-  - [pandas](./Python/pandas)
+    - [GUIs](./Python/GUI) 
+    - [NumPy](./Python/NumPy)
+    - [pandas](./Python/pandas)
 - [R](./R)
+- [Ruby](./Ruby)
+    - [Sinatra](./Ruby/sinatra-cheatsheet.md)
+- [Security](./Security)
+  - [Cryptography](./Security/Cryptography)
+- [Robot_Operating_System](./Robot_Operating_System)
 - [Shell](./Shell)
   - [PowerShell](./Shell/PowerShell)
 - [SQL](./SQL)
@@ -45,9 +56,8 @@ Feel free to use the CheatSheets to help learn new skills.
 - [TypeScript](./TypeScript)
 - [Regex](./Regex)
 
-=======
-  
-If you have a CheatSheet you would like to share feel free to contribute. 
+
+If you have a CheatSheet you would like to share feel free to contribute.
 
 ## Credits
 
