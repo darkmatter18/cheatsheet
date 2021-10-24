@@ -44,6 +44,7 @@ Feel free to use the CheatSheets to help learn new skills.
 - [R](./R)
 - [Ruby](./Ruby)
     - [Sinatra](./Ruby/sinatra-cheatsheet.md)
+- [Rust](./Rust)
 - [Security](./Security)
   - [Cryptography](./Security/Cryptography)
 - [Robot_Operating_System](./Robot_Operating_System)
