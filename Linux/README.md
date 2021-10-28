@@ -6,4 +6,7 @@
 - [Linux File System Cheatsheet](./Linux%20Filesystem.pdf)
 - [Linux AWK Cheatsheet](./awk_cheat_sheet.pdf)
 - [Linux Command Cheatsheet](./Linux%20CheatSheet.pdf)
-- [Linux Command Line Advanced CheatSheet](./Linux%20Command%20Line%20Advanced%20CheatSheet.pdf)
+- [Linux Command Cheatsheet](./Linux%20CheatSheet.pdf)
+- [Linux Command Line Advanced CheatSheet](./
+Linux%20Command%20Line%20Advanced%20CheatSheet.pdf)
+- [Cron Timing Sheet](./Cron%20Timing%Sheet.pdf)
