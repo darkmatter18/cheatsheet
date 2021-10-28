@@ -2,4 +2,4 @@
 
 ## Cheatsheets:
 
-- [C++ Basics & advance](./C-Cheatsheet.pdf)
+- [The C Cheat Sheet](./C-CheatSheet.pdf)
