@@ -13,3 +13,4 @@
 - [Game dev with pgzero](./pgzero-cheatsheet.md)
 - [python cheatsheet.pdf](./python-cheatsheet.pdf)
 - [Python cheatsheet from OverAPI](https://overapi.com/python)
+- [Scikit Python ](file:///tmp/mozilla_jaivanti0/Scikit_Learn_Cheat_Sheet_Python.pdf)
