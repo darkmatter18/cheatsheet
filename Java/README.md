@@ -1,6 +1,7 @@
-# JAVA
+# Java
 
 ## Cheatsheets:
 
-1. [Java Basics](./java.pdf)
-2. [Java Advanced](./java_complete.pdf)
+- [Java Basics](./java.pdf)
+- [Java Advanced](./java_complete.pdf)
+- [Java cheatsheet from OverAPI](https://overapi.com/java)
