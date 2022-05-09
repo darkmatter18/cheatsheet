@@ -11,3 +11,4 @@
 - [Javascript ES6 Cheatsheet](./es6_cheatsheet.pdf)
 - [Javascript Array Reduce Cheatsheet](./javascript-array-reduce.png)
 - [Javascript Cheatsheet from overAPI](https://overapi.com/javascript)
+- [Angular Cheatsheet](Angular/Angular_Cheatsheet.pdf)
