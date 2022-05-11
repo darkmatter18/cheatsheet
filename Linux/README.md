@@ -9,3 +9,4 @@
 - [Linux Command Cheatsheet](./Linux%20CheatSheet.pdf)
 - [Linux Command Line Advanced CheatSheet](./Linux%20Command%20Line%20Advanced%20CheatSheet.pdf)
 - [Cron Timing Sheet](./Cron%20Timing%Sheet.pdf)
+- [Linux Permissions Cheatsheet](./Linux_permissions_cheatsheet.pdf)
