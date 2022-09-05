@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48"><g >
+<path fill="#444444" d="M47,11V6c0-1.105-0.895-2-2-2H3C1.895,4,1,4.895,1,6v5H47z"/>
+<path fill="#606060" d="M45,43H15V11h32v30C47,42.105,46.105,43,45,43z"/>
+<circle fill="#E86C60" cx="4.5" cy="7.5" r="1.5"/>
+<circle fill="#EFD358" cx="9.5" cy="7.5" r="1.5"/>
+<circle fill="#72C472" cx="14.5" cy="7.5" r="1.5"/>
+<path fill="#4F4F4F" d="M16,43H3c-1.105,0-2-0.895-2-2V11h15V43z"/>
+<rect x="5" y="14" fill="#B3B3B3" width="7" height="2"/>
+<rect x="5" y="20" fill="#B3B3B3" width="5" height="2"/>
+<rect x="5" y="26" fill="#B3B3B3" width="7" height="2"/>
+<rect x="5" y="32" fill="#B3B3B3" width="5" height="2"/>
+<rect x="5" y="38" fill="#B3B3B3" width="7" height="2"/>
+<rect x="20" y="14" fill="#E86C60" width="5" height="2"/>
+<rect x="24" y="20" fill="#EFD358" width="7" height="2"/>
+<rect x="27" y="26" fill="#FFFFFF" width="10" height="2"/>
+<rect x="24" y="32" fill="#EFD358" width="7" height="2"/>
+<rect x="20" y="38" fill="#E86C60" width="5" height="2"/>
+</g></svg>
