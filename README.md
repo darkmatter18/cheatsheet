@@ -74,7 +74,7 @@
     <td align="center"><img src="images/programming_languages/css3.svg" height="90px" alt="css3"></td>
     <td align="center"><img src="images/programming_languages/dart.svg" height="90px" alt="dart"></td>
     <td align="center"><img src="images/programming_languages/dsa.svg" height="90px" alt="dsa"></td>
-    <td align="center"><img src="images/programming_languages/flutter.svg" height="90px" alt="flutter">
+    <td align="center"><img src="images/programming_languages/flutter.svg" height="90px" alt="flutter"></td>
   </tr>
   <tr>
     <td align="center"><a href="programming_languages/css/README.md">CSS3</a></td>
@@ -140,6 +140,7 @@
 </details>
 
 <details open><summary>CLI</summary>
+<br>
 <table>
   <tr>
     <td align="center"><img src="images/cli/docker.svg" height="90px" alt="docker"></td>
@@ -169,12 +170,13 @@
 </details>
 
 <details open><summary>Security</summary>
+<br>
 <table>
   <tr>
-    <td align="center"><img src="images/cli/docker.svg" height="90px" alt="docker"></td>
+    <td align="center"><img src="images/security/cryptography.svg" height="90px" alt="cryptography"></td>
   </tr>
   <tr>
-    <td align="center"><a href="cli/linux/README.md">Linux</a></td>
+    <td align="center"><a href="security/cryptography/README.md">Cryptography</a></td>
   </tr>
 </table>
 </details>
