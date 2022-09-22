@@ -6,23 +6,23 @@ Original article:
 
 
 ## Table of Contents
-[React Elements](#react-elements)
-[React Element Attributes](#React-Element-Attributes)
-[React Element Styles](#React-Element-Styles)
-[React Fragments](#React-Fragments)
-[React Components](#React-Components)
-[React Props](#React-Props)
-[React Children Props](#React-Children-Props)
-[React Conditionals](#React-Conditionals)
-[React Lists](#React-Lists)
-[React Context](#React-Context)
-[React Hooks](#React-Hooks)
-[React useState Hook](#React-useState-Hook)
-[React useEffect Hook](#React-useEffect-Hook)
-[React useRef Hook](#React-useRef)
-[React useContext Hook](#React-useContext)
-[React useCallback Hook](#React-useCallback)
-[React useMemo Hook](#React-useMemo)
+* [React Elements](#react-elements)
+* [React Element Attributes](#React-Element-Attributes)
+* [React Element Styles](#React-Element-Styles)
+* [React Fragments](#React-Fragments)
+* [React Components](#React-Components)
+* [React Props](#React-Props)
+* [React Children Props](#React-Children-Props)
+* [React Conditionals](#React-Conditionals)
+* [React Lists](#React-Lists)
+* [React Context](#React-Context)
+* [React Hooks](#React-Hooks)
+* [React useState Hook](#React-useState-Hook)
+* [React useEffect Hook](#React-useEffect-Hook)
+* [React useRef Hook](#React-useRef)
+* [React useContext Hook](#React-useContext)
+* [React useCallback Hook](#React-useCallback)
+* [React useMemo Hook](#React-useMemo)
 
 
 
@@ -592,5 +592,5 @@ The reason for doing so is to prevent the `Component` value from being recreated
 
 
 ## Additional resources:
-[SheCodes React cheatsheet](http://cheatsheets.shecodes.io/react)
-[devhints React.js cheatsheet](https://devhints.io/react)
+* [SheCodes React cheatsheet](http://cheatsheets.shecodes.io/react)
+* [devhints React.js cheatsheet](https://devhints.io/react)
