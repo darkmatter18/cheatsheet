@@ -12,3 +12,4 @@
 - [Javascript Array Reduce Cheatsheet](./javascript-array-reduce.png)
 - [Javascript Cheatsheet from overAPI](https://overapi.com/javascript)
 - [Angular Cheatsheet](Angular/Angular_Cheatsheet.pdf)
+- [React Cheatsheet](React/README.md)
