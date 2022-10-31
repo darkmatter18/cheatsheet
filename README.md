@@ -132,9 +132,11 @@
   </tr>
   <tr>
     <td align="center"><img src="images/programming_languages/typescript.svg" height="90px" alt="typescript"></td>
+    <td align="center"><img src="images/programming_languages/golang.png" height="90px" alt="golang"></td>
   </tr>
   <tr>
     <td align="center"><a href="programming_languages/typescript/README.md">Typescript</a></td>
+    <td align="center"><a href="programming_languages/golang/README.md">Golang</a></td>
   </tr>
 </table>
 </details>
