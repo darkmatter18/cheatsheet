@@ -13,3 +13,4 @@
 - [Javascript Cheatsheet from overAPI](https://overapi.com/javascript)
 - [Angular Cheatsheet](Angular/Angular_Cheatsheet.pdf)
 - [React Cheatsheet](React/README.md)
+- [JavaScript Cheat Sheet by Tower](https://www.git-tower.com/learn/cheat-sheets/javascript)
